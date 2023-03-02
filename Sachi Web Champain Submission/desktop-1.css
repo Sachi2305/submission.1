@@ -1,0 +1,1127 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-X1z {
+  width: 100%;
+  height: 747.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ {
+  box-sizing: border-box;
+  padding: 4rem 0rem 7rem 0rem;
+  width: 144rem;
+  height: 407.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-qvkr-UdN {
+  margin: 0rem 2.55rem 1.3rem 0rem;
+  width: 95.7rem;
+  height: 4.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-qvkr-UdN .home-about-us-academics-placement-events-contact-alumani-Nye {
+  width: 95.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-qvkr-UdN .down-arrow-q6Y {
+  width: 56.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 23.7836rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-qvkr-UdN .down-arrow-q6Y .item--jhi {
+  margin-right: 14.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-qvkr-UdN .down-arrow-q6Y .item--rGY {
+  margin-right: 14.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-qvkr-UdN .down-arrow-q6Y .item--yrx {
+  margin-right: 10.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-qvkr-UdN .down-arrow-q6Y .item--i3r {
+  margin-right: 11.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-qvkr-UdN .down-arrow-q6Y .item--3bv {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-bksn-aLx {
+  margin-bottom: 7.1rem;
+  width: 143.7rem;
+  height: 59.8rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/inaki-del-olmo-nijueqw0rkg-unsplash-1-bg.png');
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-bksn-aLx .dots-squad-1-JGx {
+  width: 35rem;
+  height: 33.1986rem;
+  position: absolute;
+  left: 36.2rem;
+  top: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-bksn-aLx .dots-squad-2-c2k {
+  width: 35rem;
+  height: 33.1986rem;
+  position: absolute;
+  left: 89.4rem;
+  top: 9.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-bksn-aLx .in-pictute-combo-vJL {
+  width: 91.2226rem;
+  height: 53.1rem;
+  position: absolute;
+  left: 50.1774rem;
+  top: 6.3rem;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-bksn-aLx .in-pictute-combo-vJL .institute-activities--T3N {
+  margin: 0rem 0rem 3.9rem 0.023rem;
+  font-size: 7.1rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Imprint MT Shadow, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-bksn-aLx .in-pictute-combo-vJL .encouragement-and-support-to-student-for-participating-in-technicalnon-technical-sports-activites-at-state-as-well-as-at-national-level-MuS {
+  margin: 0rem 0rem 4.981rem 0.623rem;
+  max-width: 90.6rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-bksn-aLx .in-pictute-combo-vJL .auto-group-hahv-pHE {
+  margin-bottom: 20.1002rem;
+  width: 24.9452rem;
+  height: 7.119rem;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ef0909;
+  border-radius: 2rem;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-bksn-aLx .in-pictute-combo-vJL .auto-group-dxix-5ix {
+  margin-left: 18.7226rem;
+  width: 2.3rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-x2vc-a9v {
+  margin: 0rem 6.3rem 7.1rem 7.8rem;
+  width: calc(100% - 14.1rem);
+  height: 41rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-x2vc-a9v .notice-board-hVS {
+  margin-right: 15.7rem;
+  box-sizing: border-box;
+  padding: 2.9rem 2rem 18.3rem 2rem;
+  width: 57.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #eceaea;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-x2vc-a9v .notice-board-hVS .notice-board-RAY {
+  margin: 0rem 4.8rem 2.3rem 0rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #a70000;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-x2vc-a9v .notice-board-hVS .a-bulletin-board-pinboard-pin-board-noticeboard-or-notice-board-in-british-english-is-a-surface-intended-for-the-posting-of-public-messages-for-example-to-advertise-items-wanted-or-for-sale-announce-events-or-provide-information-jh2 {
+  margin-right: 3.9rem;
+  max-width: 49.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-x2vc-a9v .news-achivment-k6L {
+  box-sizing: border-box;
+  padding: 2.9rem 2rem;
+  width: 57.1rem;
+  height: 100%;
+  background-color: #eceaea;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-x2vc-a9v .news-achivment-k6L .news-achivment-V3v {
+  width: 47.2rem;
+  height: 24.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-x2vc-a9v .news-achivment-k6L .news-achivment-V3v .news-achievements-cPS {
+  margin: 0rem 1rem 2.3rem 0rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #a70000;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-x2vc-a9v .news-achivment-k6L .news-achivment-V3v .chinas-hardline-virus-strategy-is-stoking-public-frustration-with-many-growing-weary-of-snap-lockdowns-lengthy-quarantines-and-mass-testing-campaigns-we-told-them-target-terrorism-they-aimed-at-modi-pms-big-charge-at-congress-sonia-gandhi-M84 {
+  max-width: 47.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-fhbe-wc4 {
+  margin: 0rem 6.3rem 5.8rem 3.4rem;
+  width: calc(100% - 9.7rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-fhbe-wc4 .recognition-GeL {
+  margin-right: 9.2rem;
+  box-sizing: border-box;
+  padding: 1.5rem 3.95rem 5.5rem 4.35rem;
+  width: 38.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f3f3;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-fhbe-wc4 .recognition-GeL .recognition-auv {
+  margin: 0rem 2.3rem 2.5rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #a70000;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-fhbe-wc4 .recognition-GeL .oxford-is-recognized-by-all-india-council-for-technical-education-aicte-govt-of-india-and-affiliated-to-gujarat-technological-university-gtu-6dN {
+  max-width: 30.6rem;
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-fhbe-wc4 .acpc-help-center-LXi {
+  margin: 0.4rem 8.4rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.8rem 4.05rem 5.5rem 4.3rem;
+  width: 38.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #a70000;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-fhbe-wc4 .acpc-help-center-LXi .acpc-help-center-3wv {
+  margin: 0rem 2.15rem 3rem 0rem;
+  text-align: center;
+  font-size: 3.3rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-fhbe-wc4 .acpc-help-center-LXi .acpc-help-center-is-available-oxford-for-all-kind-of-admission-assistance-to-the-new-coming-students-timing-8-30-am-to-4-00-pm-xZ6 {
+  margin-left: 0.15rem;
+  max-width: 30.4rem;
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-fhbe-wc4 .admission-process-11a {
+  box-sizing: border-box;
+  padding: 1.5rem 4.1rem 8.4rem 4.5rem;
+  width: 38.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f3f3;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-fhbe-wc4 .admission-process-11a .admission-process-Xkc {
+  margin: 0rem 2.3rem 3.2rem 0rem;
+  text-align: center;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #a70000;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .auto-group-fhbe-wc4 .admission-process-11a .admission-in-svmit-can-be-availed-through-acpc-online-admission-procedure-for-more-detailsclick-here-TeG {
+  max-width: 30.3rem;
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Ibarra Real Nova, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 {
+  margin: 0rem 1rem 7.8rem 0rem;
+  box-sizing: border-box;
+  padding: 2.1rem 15.4rem 3.8rem 12.2rem;
+  width: 143rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0f1f47;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .top-placement-DWx {
+  margin: 0rem 0rem 11.2rem 0.3rem;
+  text-align: center;
+  font-size: 7.7rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx {
+  margin-bottom: 4.5rem;
+  width: 100%;
+  height: 45rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-teac-gQY {
+  margin-right: 12.3rem;
+  box-sizing: border-box;
+  padding: 0rem 0.2rem 0.2rem 0.3rem;
+  width: 28.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #edebe9;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-teac-gQY .portrait-corporate-woman-holding-clipboard-work-standing-formal-outfit-white-background1258-88411-1-bGc {
+  width: 28.3rem;
+  height: 34.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-teac-gQY .karolina-kobialka-VMz {
+  margin: 0rem 0.3rem 1.4rem 0rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-teac-gQY .software-developer-at-google-o7n {
+  margin-right: 0.7rem;
+  max-width: 21.6rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-twfw-uAp {
+  margin-right: 16.7rem;
+  width: 28.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fdfdfd;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-twfw-uAp .portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded171337-1267-1-SgY {
+  margin-right: 0.1rem;
+  width: 28.7rem;
+  height: 34.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-twfw-uAp .carldson-tony-w7W {
+  margin: 0rem 0rem 0.6rem 0.4rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-twfw-uAp .software-developer-at-microsoft-qig {
+  margin-left: 0.2rem;
+  max-width: 24.5rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-wgst-Ysz {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 28.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-wgst-Ysz .close-up-young-successful-man-smiling-camera-standing-casual-outfit-against-blue-background1258-66609-1-Hqa {
+  width: 28.8rem;
+  height: 34.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-wgst-Ysz .tony-stark-zV6 {
+  margin: 0rem 0rem 0.3rem 1.4rem;
+  text-align: center;
+  font-size: 3.1rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-lntz-wSx .auto-group-wgst-Ysz .software-develper-at-goldsman-7Zi {
+  margin-left: 0.8rem;
+  max-width: 23.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .placement-7D2 .auto-group-t5v8-cmN {
+  margin: 0rem 40.2rem 0rem 35.6rem;
+  width: calc(100% - 75.8rem);
+  height: 8.1rem;
+  text-align: center;
+  font-size: 2.9rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a70000;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a {
+  margin: 0rem 5.4rem 0rem 6.2rem;
+  width: calc(100% - 11.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-jchn-nJU {
+  margin: 0rem 19.3rem 2.8rem 17.6rem;
+  width: calc(100% - 36.9rem);
+  height: 77.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-jchn-nJU .our-gallery-u8C {
+  width: 21.8rem;
+  height: 5rem;
+  position: absolute;
+  left: 33.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 4.1rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #a70000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-jchn-nJU .oxford-campus-Qak {
+  width: 71.6rem;
+  height: 18.1rem;
+  position: absolute;
+  left: 8.35rem;
+  top: 3rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 700;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-jchn-nJU .ben-seymour-nqbutbsdqnm-unsplash-1-irL {
+  width: 95.5rem;
+  height: 57.4rem;
+  position: absolute;
+  left: 0;
+  top: 19.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-1xfe-Epg {
+  width: 100%;
+  height: 65.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-1xfe-Epg .auto-group-m4fa-PSg {
+  margin-right: 3.3rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-1xfe-Epg .auto-group-m4fa-PSg .tetiana-shyshkina-doz4m12ddig-unsplash-1-wUC {
+  margin-bottom: 2.8rem;
+  width: 55.8rem;
+  height: 31.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-1xfe-Epg .auto-group-m4fa-PSg .vasily-koloda-8cqdvpuoki-unsplash-1-TSY {
+  width: 56.7rem;
+  height: 31.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-1xfe-Epg .auto-group-kdha-bHr {
+  margin-right: 4.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-1xfe-Epg .auto-group-kdha-bHr .tim-wildsmith-obcmqlsxetm-unsplash-1-9KN {
+  margin-bottom: 2.8rem;
+  width: 26.5rem;
+  height: 48.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-1xfe-Epg .auto-group-kdha-bHr .vadim-sherbakov-d6eby-faoo0-unsplash-1-HRa {
+  width: 26.5rem;
+  height: 14.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-1xfe-Epg .auto-group-2zcl-RXn {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-1xfe-Epg .auto-group-2zcl-RXn .brooke-cagle-g1kr4ozfoac-unsplash-1-yZJ {
+  margin-bottom: 4.8rem;
+  width: 38.5rem;
+  height: 29.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-vqlp-XAQ .campus-gallary-47a .auto-group-1xfe-Epg .auto-group-2zcl-RXn .istockphoto-166097787-612x612-1-7vQ {
+  width: 41rem;
+  height: 31.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .hostel-facility-qrQ {
+  box-sizing: border-box;
+  padding: 5.2rem 2.9rem 12.9rem 4.35rem;
+  width: 144rem;
+  height: 76.2rem;
+  position: absolute;
+  left: 0;
+  top: 407.2rem;
+  background-color: #0f1f47;
+}
+.desktop-1-X1z .hostel-facility-qrQ .hostel-facility-mEG {
+  margin-bottom: 5.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 7.7rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .hostel-facility-qrQ .auto-group-oxms-hdi {
+  margin-left: 0.05rem;
+  width: calc(100% - 0.05rem);
+  display: flex;
+  align-items: center;
+}
+.desktop-1-X1z .hostel-facility-qrQ .auto-group-oxms-hdi .gas-pantry-with-gas-stove-is-available-refrigerator-every-room-is-1-seated-common-reading-table-television-floor-wise-common-room-24-hours-security-hot-water-r-o-drinking-water-separate-dining-hall-in-mess-3ha {
+  margin: 0rem 4.1rem 2rem 0rem;
+  max-width: 57.7rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-X1z .hostel-facility-qrQ .auto-group-oxms-hdi .iit-guwahati-hostel1-1-2pQ {
+  width: 74.9rem;
+  height: 43.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .sudent-intake-xxx {
+  width: 108.2rem;
+  height: 73.6rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 490.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-X1z .sudent-intake-xxx .student-intake-hfe {
+  margin: 0rem 0.9rem 7.8rem 0rem;
+  font-size: 9rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .sudent-intake-xxx .image-1-dZJ {
+  width: 108.2rem;
+  height: 55rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-husv-ajS {
+  width: 144rem;
+  height: 172.7rem;
+  position: absolute;
+  left: 0;
+  top: 574.9rem;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv {
+  width: 144rem;
+  height: 167.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .rectangle-14-3sv {
+  width: 144rem;
+  height: 113rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #1c3676;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .our-student-speak-144 {
+  width: 26.1rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 55rem;
+  top: 1.9rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .our-review-speak-for-us-WmW {
+  width: 79.1rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 30.5rem;
+  top: 6.3rem;
+  font-size: 6.9rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .pexels-italo-melo-2379004-1-Rda {
+  width: 32rem;
+  height: 35.8rem;
+  position: absolute;
+  left: 21.4rem;
+  top: 21.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .portrait-young-beautiful-businesswoman53419-3859-1-YiC {
+  width: 53.4rem;
+  height: 35.8rem;
+  position: absolute;
+  left: 78.9rem;
+  top: 20.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .rectangle-15-4gY {
+  width: 63rem;
+  height: 40.8rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 63.9rem;
+  background-color: #0f1f47;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .rectangle-16-bwN {
+  width: 63rem;
+  height: 40.8rem;
+  position: absolute;
+  left: 74.1rem;
+  top: 63.9rem;
+  background-color: #0f1f47;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .jordan-patel-N4x {
+  width: 32.5rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 20.4rem;
+  top: 65.3rem;
+  font-size: 5.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .eleny-colambus-Udn {
+  width: 41.4rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 65.3rem;
+  font-size: 5.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .so-i-want-to-be-an-engineer-in-the-electronics-department-so-i-choose-this-course-as-there-was-many-opportunities-in-branches-nowadays-the-total-number-of-students-in-our-branch-is-120-our-department-faculty-members-are-good-and-supportive-and-most-of-them-are-iit-nit-after-6-to-5-months-the-terms-exam-happened-in-the-year-the-level-of-questions-was-easy-to-moderate-BHJ {
+  width: 58rem;
+  height: 28.1rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 74.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .collage-is-a-cloud-based-human-resources-hr-and-benefits-management-platform-built-for-the-needs-of-small-and-midsize-businesses-collage-also-digitizes-group-benefits-enrollment-and-can-sync-with-any-insurance-provider-in-canada-jCL {
+  width: 58rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 76.7rem;
+  top: 74.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .rectangle-17-MjW {
+  width: 144rem;
+  height: 55.6rem;
+  position: absolute;
+  left: 0;
+  top: 112.3rem;
+  background-color: #0f1f47;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .usefull-links-WMW {
+  width: 29.7rem;
+  height: 35.9rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 115.3rem;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .usefull-links-WMW .usefull-links-dwv {
+  margin-bottom: 1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .usefull-links-WMW .line-1-ykt {
+  margin: 0rem 0rem 3.3rem 0.3rem;
+  width: 8.8rem;
+  height: 0.3rem;
+  background-color: #ffffff;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .usefull-links-WMW .about-trust-campus-infrastructure-careers-mandatory-disclosure-downlod-gtu-result-acpc-aicte-uhc-K44 {
+  max-width: 29.7rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .short-term-courses-QrC {
+  width: 40rem;
+  height: 23.4rem;
+  position: absolute;
+  left: 40.4rem;
+  top: 115.3rem;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .short-term-courses-QrC .short-terms-courses-LE4 {
+  margin-bottom: 1rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .short-term-courses-QrC .line-2-ULG {
+  margin-bottom: 3.3rem;
+  width: 10.4rem;
+  height: 0.3rem;
+  background-color: #ffffff;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .short-term-courses-QrC .cnna-by-cisco-structural-design-using-sttd-pro-autocad-3d-printing-indusrtial-automation-view-more-courses-pQ8 {
+  margin-left: 0.3rem;
+  max-width: 39.7rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .contact-us-hyi {
+  width: 31.9rem;
+  height: 50rem;
+  position: absolute;
+  left: 97rem;
+  top: 115.3rem;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .contact-us-hyi .contact-us-SAc {
+  margin-bottom: 1rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .contact-us-hyi .line-3-yRS {
+  margin: 0rem 0rem 3.3rem 0.2rem;
+  width: 10.4rem;
+  height: 0.3rem;
+  background-color: #ffffff;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .contact-us-hyi .collage-oxford-near-afial-towerus-78945612-1-789123456-infoduiacin-wwwduiacin-follows-us--71r {
+  margin-bottom: 1.4rem;
+  max-width: 31.9rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .contact-us-hyi .line-4-B1i {
+  margin: 0rem 0rem 0.8rem 0.2rem;
+  width: 10.4rem;
+  height: 0.3rem;
+  background-color: #ffffff;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .contact-us-hyi .auto-group-gn9e-iGY {
+  margin: 0rem 2.7rem 0rem 9.5rem;
+  width: calc(100% - 12.2rem);
+  display: flex;
+  align-items: flex-end;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .contact-us-hyi .auto-group-gn9e-iGY .twitter-xxl-1-3Zi {
+  margin-right: 3rem;
+  width: 9rem;
+  height: 7.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-husv-ajS .our-review-speak-for-us-Kwv .contact-us-hyi .auto-group-gn9e-iGY .pngfind-1-kyv {
+  width: 7.7rem;
+  height: 8.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-husv-ajS .copyright-part-6nt {
+  box-sizing: border-box;
+  padding: 0.5rem 1.9rem 0.5rem 3.7rem;
+  width: 144rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 167.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+}
+.desktop-1-X1z .auto-group-husv-ajS .copyright-part-6nt .copyright-2022-oxfordus-all-rights-reserved-oxC {
+  margin: 0rem 15.8rem 0.6rem 0rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .auto-group-husv-ajS .copyright-part-6nt .design-develop-by-akshar-the-e-catulouge-designer-hXn {
+  margin-bottom: 0.8rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .university-of-oxford-logo-1-CzL {
+  width: 29rem;
+  height: 29.1rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-X1z .top-of-then-line-ixg {
+  box-sizing: border-box;
+  padding: 0.5rem 11.9rem 0.9rem 11.1rem;
+  width: 144rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #0f1f47;
+}
+.desktop-1-X1z .top-of-then-line-ixg .university-of-oxford-DeY {
+  margin: 0.3rem 1.9rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .top-of-then-line-ixg .item--7zp {
+  margin: 0rem 4rem 0.3rem 0rem;
+  text-align: center;
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .top-of-then-line-ixg .duiacin-SXJ {
+  margin: 0rem 66.95rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .top-of-then-line-ixg .follow-us--m3n {
+  margin: 0.1rem 1.75rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .top-of-then-line-ixg .twitter-Uyn {
+  margin: 0.3rem 1rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .top-of-then-line-ixg .item--1yi {
+  margin: 0rem 1rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-X1z .top-of-then-line-ixg .instagram-Yik {
+  margin-top: 0.4rem;
+  width: 2.5rem;
+  height: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
